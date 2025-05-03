@@ -1,11 +1,12 @@
-# ADs-na-Pratica
+# Sobre o App - Termos e Política
 
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
+  
+  
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Sobre o App - Termos e Política</title>
 </head>
 <body>
 
