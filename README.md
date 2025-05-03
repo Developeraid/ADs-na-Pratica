@@ -6,43 +6,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Sobre o App - Termos e Política</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      padding: 20px;
-      max-width: 800px;
-      margin: auto;
-      background-color: #f9f9f9;
-      color: #222;
-    }
-    h2, h3 {
-      color: #000;
-    }
-    ul {
-      padding-left: 20px;
-    }
-    a.botao {
-      display: inline-block;
-      padding: 10px 20px;
-      background-color: black;
-      color: white;
-      border-radius: 30px;
-      text-decoration: none;
-      margin: 20px 0;
-    }
-    hr {
-      background-color: black;
-      height: 2px;
-      border: none;
-      margin: 30px 0;
-    }
-    footer {
-      text-align: center;
-      margin-top: 40px;
-      font-size: 0.9em;
-      color: #555;
-    }
-  </style>
 </head>
 <body>
 
